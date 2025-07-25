@@ -69,7 +69,7 @@ letrasmin:
 
 
 
-fim:                       ;  MOSTRAR OUTPUT  (FROND END TS)
+fim:                       ;  MOSTRAR OUTPUT  (FROND END )
     ;print : mensagem:Num
     mov dx, offset Num
     mov ah,09h
